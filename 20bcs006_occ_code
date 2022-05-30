@@ -6,7 +6,7 @@ const int trigPin = 5;
 const int echoPin = 18;
 
 //define sound speed in cm/uS
-#define SOUND_SPEED 0.034
+#define SOUND_SPEED0.034
 #define CM_TO_INCH 0.393701
 #define WIFI_SSID "homespot"
 #define WIFI_PASSWORD "betheforce"
